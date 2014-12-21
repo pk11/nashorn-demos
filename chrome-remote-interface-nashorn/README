@@ -1,0 +1,1 @@
+java -cp dist/Java-WebSocket.jar:dist/avatar-js.jar -Djava.library.path=dist com.oracle.avatar.js.Server sample.js
